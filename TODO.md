@@ -1,0 +1,11 @@
+- complete changelog
+- godoc functions
+- godoc variables
+- tests
+- full config details in readme
+- install instructions
+- build instructions
+- logging
+- manual tests for config file
+- manual tests for env variables
+- fix/update debugging info

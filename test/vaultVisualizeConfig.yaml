@@ -1,0 +1,9 @@
+insecureMode: false
+token:  "4321"
+datacenter: "boston"
+tag: "noop"
+path: "test"
+port: "6789"
+outputFile: test.log
+debug: false
+json: false
